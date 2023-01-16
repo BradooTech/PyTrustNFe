@@ -67,7 +67,7 @@ URLS = {
         DF: 'http://www.fazenda.df.gov.br/nfce/qrcode?',
         GO: 'http://homolog.sefaz.go.gov.br/nfeweb/sites/nfce/danfeNFCe?',
         MA: 'http://homologacao.sefaz.ma.gov.br/portal/consultarNFCe.jsp?',
-        MG: "https://hportalsped.fazenda.mg.gov.br/portalnfce/sistema/qrcode.xhtml?",
+        MG: "https://portalsped.fazenda.mg.gov.br/portalnfce/sistema/qrcode.xhtml?",
         MS: 'http://www.dfe.ms.gov.br/nfce/qrcode?',
         MT: 'http://homologacao.sefaz.mt.gov.br/nfce/consultanfce?',
         PA: 'https://appnfc.sefa.pa.gov.br/portal-homologacao/view/consultas/nfce/nfceForm.seam?',  # noqa
