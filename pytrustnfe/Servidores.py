@@ -512,7 +512,7 @@ UFMG = {
             WS_NFE_RECEPCAO_EVENTO: "nfce/services/NFeRecepcaoEvento4?wsdl",
             WS_NFE_AUTORIZACAO: "nfce/services/NFeAutorizacao4?wsdl",
             WS_NFE_RET_AUTORIZACAO: "nfce/services/NFeRetAutorizacao4?wsdl",
-            WS_NFCE_QR_CODE: "nfce.fazenda.mg.gov.br/portalnfce/sistema/qrcode.xhtml?",
+            WS_NFCE_QR_CODE: "portalsped.fazenda.mg.gov.br/portalnfce/sistema/qrcode.xhtml?",
         },
         AMBIENTE_HOMOLOGACAO: {
             "servidor": "hnfce.fazenda.mg.gov.br",
@@ -522,7 +522,7 @@ UFMG = {
             WS_NFE_RECEPCAO_EVENTO: "nfce/services/NFeRecepcaoEvento4?wsdl",
             WS_NFE_AUTORIZACAO: "nfce/services/NFeAutorizacao4?wsdl",
             WS_NFE_RET_AUTORIZACAO: "nfce/services/NFeRetAutorizacao4?wsdl",
-            WS_NFCE_QR_CODE: "nfce.fazenda.mg.gov.br/portalnfce/sistema/qrcode.xhtml?",
+            WS_NFCE_QR_CODE: "hportalsped.fazenda.mg.gov.br/portalnfce/sistema/qrcode.xhtml?",
         },
     }
 }
