@@ -49,7 +49,7 @@ later (LGPLv2+)',
     long_description_content_type='text/markdown',
     install_requires=[
         'xmlsec >= 1.3.13',  # apt update;apt install libxmlsec1-dev pkg-config -y
-        'lxml >= 4.2.1',
+        'lxml == 4.9.0',
         'cryptography >= 3.4.8',
         'pyOpenSSL >= 17.5.0, <= 23.2.0',
         'certifi >=  2018.1.18',
